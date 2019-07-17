@@ -1,4 +1,6 @@
 # Genealogy 101 Syllabus
+
+Meets Tuesdays and Thursdays 1-3 PM
 ## Basics
 
 *Skip if you've completed Genealogy 100.*
