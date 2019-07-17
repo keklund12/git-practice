@@ -15,8 +15,7 @@ Another good source for basics of genealogy, see [FamilySearch](https://www.fami
 
 - [Ancestry](http://www.ancestry.com)
 - Family Group Sheets
-- Census Records
-- Vital Records
+- Census and Vital Records
 
 
 
